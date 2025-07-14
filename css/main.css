@@ -152,3 +152,54 @@ article{
 #sitemap ul{
     color: #666666;
 }
+/* footer */
+footer{
+    border-top: 3px solid #00a8ab;
+    padding: 20px;
+}
+footer #address{
+    float: left;
+    
+}
+footer #footer_menu li{
+    margin-top: 5px;
+}
+
+footer #link{
+    float: right;
+}
+
+footer #company_info{
+    margin-top: 20px;
+}
+
+footer #company_info li{
+    margin-top: 2px;
+}
+footer #copyright{
+    margin-top: 10px;
+    font-size: 11px;
+    font-weight: bold;
+    color: black;
+}
+
+#link{
+    /* border: 1px solid red; */
+}
+
+footer #link h3{
+    font-size: 16px;
+    color: #00a8ab;
+}
+footer #link select{
+    margin-top: 5px;
+    margin-left: 50px;
+    width: 100px;
+    height: 20px;
+    font-size: 11px;
+}
+footer #icons{
+    margin-top: 5px;
+    text-align: right;
+}
+/* 이미지는 문자처럼 정렬가능 */
