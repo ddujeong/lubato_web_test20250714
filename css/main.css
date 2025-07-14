@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border: 0px solid red;
+}
+
+#index_page{
+    width: 1000px;
+    margin: 0 auto;
+    /* 가운데 정렬 */
+}
+
+#logo{
+   float: left;
+   margin: 15px 15px 15px 20px;
+
+}
+
+#moto{
+   float: left;
+   margin-top: 45px;
+   /* 위 여백 */
+
+}
+
+#top_menu {
+    float: right;
+    margin-top: 50px;
+   
+
+}
+
+#top_menu li {
+    display: inline;
+
+    
+
+}
+
+#top_navi li{
+    display: inline;
+  
+}
+
+.line{
+    border-top: 1px solid #cccccc;
+    
+}
+
+.clear{
+    clear: both;
+}
+
